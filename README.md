@@ -21,10 +21,3 @@
 
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/israelguerreroortiz/israelguerreroortiz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/israelguerreroortiz/israelguerreroortiz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/israelguerreroortiz/israelguerreroortiz/output/github-snake.svg" />
-</picture>
