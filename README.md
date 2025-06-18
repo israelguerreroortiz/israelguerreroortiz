@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Israel, a Spanish Web Developer 👋🏼:
+# Hello World!, I'm Israel, a Spanish Developer 👋🏼:
 🛠️ currently working on personal projects<br>
 🎓 student at 42 Málaga<br>
 👨‍💻 learning web development with the goal of getting a programming job<br>
@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
